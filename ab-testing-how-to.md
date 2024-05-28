@@ -34,7 +34,7 @@ Q1 と Q2 に対しては、なるべく統計学の前提知識なしに読め�
 ##### ペイズ推定での A/B テストをいつやめるべきか
 
 ### 参考文献
-
+ - 『A/Bテスト概論 / Introduction of ABTesting』 https://speakerdeck.com/recruitengineers/introduction-of-abtesting
  - 『Pythonで学ぶ効果検証入門』
  - 『A/Bテスト実践ガイド』
  - 『統計学を哲学する』
