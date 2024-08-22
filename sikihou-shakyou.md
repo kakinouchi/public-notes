@@ -66,6 +66,9 @@ https://note.com/shikiho_shakyo/n/nbf9441c46a6b
 
 特に、eWell の材料欄のおかげで知った、eWell の新サービスがおもしろい！ https://ewellibow.jp/kinou/ai-visiting/
 
+
+あと、Arent がなぜか浜松オフィスを持っているのも気になった。銀行も浜松磐田信金。なんか嬉しいことがある？？
+
 ### 2日目(2024年8月21日)
 
  - PER の定義を思い出した。
